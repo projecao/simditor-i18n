@@ -1,5 +1,7 @@
 # simditor-i18n
-simditor-i18n
+<p text-align="center">
+  <img src="https://raw.githubusercontent.com/projecao/simditor-i18n/master/editor.png"/>
+</p>
 
 ## Install 
 
