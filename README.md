@@ -3,7 +3,7 @@ simditor-i18n
 
 ## Install 
 
-`npm isntall --save simditor-i18n`
+`npm install --save simditor-i18n`
 
 ## Usage
 
