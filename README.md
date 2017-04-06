@@ -14,7 +14,7 @@
   
   import 'simditor-i18n'
   
-  Simditor.language = 'pt-BR' // i18n
+  Simditor.locale = 'pt-BR' // i18n
   
   var editor = new Simditor({
     textarea: $('#editor')
