@@ -15,7 +15,7 @@ Simditor.i18n['pt-BR'] =
     'imageAlt': 'Alt'
     'restoreImageSize': 'Tamanho original'
     'uploading': 'Uploading'
-    'indent': 'Indntar'
+    'indent': 'Indentar'
     'outdent': 'Outdent'
     'italic': 'Italic'
     'link': 'Inserir link'
