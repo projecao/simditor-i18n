@@ -1,4 +1,7 @@
 # simditor-i18n
+
+i18n for simditor
+
 <p text-align="center">
   <img src="https://raw.githubusercontent.com/projecao/simditor-i18n/master/editor.png"/>
 </p>
